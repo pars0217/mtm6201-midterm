@@ -999,6 +999,6 @@ img{
     margin-top: 3rem;
     font-size: var(--small-font);
     border-top: 2px solid var(--text-color-light);
-    color: rgba(255, 255, 255, 0.8);;
+    color: rgba(255, 255, 255, 0.8);
   }
 }
